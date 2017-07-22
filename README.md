@@ -1,5 +1,6 @@
 # Logistics_Application
-SE450 Programming Project —— Logistics Application
+
+Object-Oriented Programming Project —— Logistics Application
 
 Logistics: The process of planning, implementing, and controlling the efficient, effective flow and storage of goods from the point of origin to a destinationfor the purpose of conforming to customer requirements.
 
@@ -9,4 +10,6 @@ The containered items are then loaded onto transport trucks.
 These trucks then transport the ordered itemsover approved shipping routes.
 The ordered items are unloaded, unpacked and delivered to their destination facility.
 
-Our project is to develop an application that will perform these Order Processing & Logistics functions – it will automatically processcustomer orders –a very time-intensive process when done manually.
+Our project develops an application that performs these Order Processing & Logistics functions – it automatically processes customer orders –a very time-intensive process when done manually.
+
+Read Logistics_Application.pdf for more details.
